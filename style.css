@@ -1,0 +1,22 @@
+.body{
+    background-color: limegreen;
+}
+
+.title{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 40px;
+    text-decoration: underline;
+}
+
+.location{
+    font-size: 30px;
+    text-decoration: underline;
+    color: darkblue;
+}
+
+.condition, .temp, .humidity, .wind{
+    font-size: 22px;
+    color: darkmagenta;
+}
+
